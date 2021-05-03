@@ -1,0 +1,59 @@
+//here is the code for splash screen in xml which I'm developing in Android studio
+ 
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/gradient1"
+        android:alpha="0.8"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="70dp"
+            android:backgroundTint="#1E0233"
+            android:background="@drawable/corners"
+            android:layout_marginLeft="130dp" />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#1E0233"
+            android:background="@drawable/corners"
+            android:layout_marginLeft="80dp" />
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/logo"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#1E0233"
+            android:background="@drawable/corners"
+            android:layout_marginRight="80dp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:backgroundTint="#1E0233"
+            android:background="@drawable/corners"
+            android:layout_marginRight="130dp" />
+
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
