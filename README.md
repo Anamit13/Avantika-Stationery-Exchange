@@ -3,4 +3,5 @@ A stationery exchange app where students can sell and buy second hand products w
 An app-debug.apk file is uploaded, you can download that file to install the app in your phone. For installing this file you have to install APK manager from play store.
 
 
-<img src="https://user-images.githubusercontent.com/70309589/118934413-f6e67300-b967-11eb-86f0-233de81dcd1b.png" width="220" height = "450">
+<img src="https://user-images.githubusercontent.com/70309589/118934413-f6e67300-b967-11eb-86f0-233de81dcd1b.png" width="220" height = "450">  <img src="https://user-images.githubusercontent.com/70309589/118939694-96f2cb00-b96d-11eb-9337-86682efc4f9e.JPG" width="220" height = "450">
+
