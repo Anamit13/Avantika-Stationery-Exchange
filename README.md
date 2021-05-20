@@ -5,7 +5,7 @@ An app-debug.apk file is uploaded, you can download that file to install the app
 
 <img align = "left" src="https://user-images.githubusercontent.com/70309589/118934413-f6e67300-b967-11eb-86f0-233de81dcd1b.png" width="220" height = "450">             
 <img align = "left" src="https://user-images.githubusercontent.com/70309589/118939694-96f2cb00-b96d-11eb-9337-86682efc4f9e.JPG" hspace = "20" width="220" height = "450">
-<img align = "left" src="https://user-images.githubusercontent.com/70309589/118942166-1a152080-b970-11eb-96a2-8135f3093150.JPG" hspace = "20" width="220" height = "450">
+<img align = "left" src="https://user-images.githubusercontent.com/70309589/118942166-1a152080-b970-11eb-96a2-8135f3093150.JPG" hspace = "10" width="220" height = "450">
 
 
 
