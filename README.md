@@ -32,6 +32,7 @@ Since, this application idea is limited to students only so the scope of this mo
 6. There will be a history tracker of transactions of the product that who bought that product from whom so that any new comer can directly contact him. 
 
 ### Implentation flow of the mobile app
+![flow](https://user-images.githubusercontent.com/70309589/159108940-cce56f8d-0682-4346-a287-04deb2c8a262.PNG)
 
 
 
